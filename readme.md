@@ -1,6 +1,6 @@
 #Rename Ingredient for Laravel Elixir
 
-This is a simple gulp-rename wrapper for Laravel Elixir.
+This is a simple gulp-rename wrapper ingredient for Laravel Elixir.
 
 ## Installation
 
@@ -10,7 +10,7 @@ This is a simple gulp-rename wrapper for Laravel Elixir.
 
 Add it to your Elixir-enhanced Gulpfile, like so:
 
-```
+```javascript
 var elixir = require('laravel-elixir');
 
 require('laravel-elixir-rename');
@@ -25,13 +25,12 @@ This would copy a css file in bower_components and change it to an scss partial 
 The parameters are `rename(input, options, output)`
 
 `options` are passed directly to gulp-rename, so you can use what it accepts: strings, 
-functions and hashes. To learn more, 
-[see the gulp-rename package](https://www.npmjs.org/package/gulp-rename/).
+functions and hashes. To learn more, [see the gulp-rename package](https://www.npmjs.org/package/gulp-rename#readme).
 
-## Issues
+## Bugs and Contributions
 
-If you find bugs, please [post an issue on GitHub](https://github.com/EdRands/laravel-elixir-rename/issues) describing the problem. Or better yet, 
-make a pull request with the solution.
+If you find bugs, please [post an issue on GitHub](https://github.com/EdRands/laravel-elixir-rename/issues) describing the problem.
+Or better yet, make a pull request with the solution.
 
 ## License
 
