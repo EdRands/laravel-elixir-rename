@@ -2,6 +2,10 @@
 
 This is a simple gulp-rename wrapper for Laravel Elixir.
 
+## Installation
+
+`npm install --save-dev laravel-elixir-rename`
+
 ## Usage
 
 Add it to your Elixir-enhanced Gulpfile, like so:
@@ -9,7 +13,7 @@ Add it to your Elixir-enhanced Gulpfile, like so:
 ```
 var elixir = require('laravel-elixir');
 
-var rename = require('laravel-elixir-rename');
+require('laravel-elixir-rename');
 
 elixir(function(mix) {
    mix.rename('./bower_components/component/style.css', '_component.scss', './assets/sass');
