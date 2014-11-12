@@ -1,0 +1,28 @@
+{
+    "name": "laravel-elixir-rename",
+    "version": "0.1.0",
+    "description": "A gulp-rename wrapper ingredient for Laravel Elixir.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "gulp",
+        "laravel",
+        "elixir",
+        "rename"
+    ],
+    "author": "Ed Rands",
+    "license": "MIT",
+    "homepage": "https://github.com/EdRands/laravel-elixir-rename",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EdRands/laravel-elixir-rename"
+    },
+    "bugs": {
+        "url": "https://github.com/EdRands/laravel-elixir-rename/issues"
+    },
+    "dependencies": {
+        "gulp-rename": "^1.2.0"
+    }
+}
