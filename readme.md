@@ -1,6 +1,6 @@
 #Rename Ingredient for Laravel Elixir
 
-This is a simple gulp-rename wrapper ingredient for Laravel Elixir.
+This is a simple [gulp-rename](https://www.npmjs.org/package/gulp-rename) wrapper ingredient for Laravel Elixir.
 
 ## Installation
 
