@@ -29,7 +29,7 @@ functions and hashes. To learn more, [see the gulp-rename package](https://www.n
 
 ## Bugs and Contributions
 
-If you find bugs, please [post an issue on GitHub](https://github.com/EdRands/laravel-elixir-rename/issues) describing the problem.
+If you find a bug, please [post an issue on GitHub](https://github.com/EdRands/laravel-elixir-rename/issues) describing the problem.
 Or better yet, make a pull request with the solution.
 
 ## License
