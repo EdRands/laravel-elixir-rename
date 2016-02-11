@@ -11,14 +11,15 @@ var rename = require('gulp-rename');
  |
  */
 
+var Task = elixir.Task;
+
 elixir.extend('rename', function (input, options, output) {
 
-    gulp.task('rename', function () {
-        gulp.src(input)
+    new Task('rename', function () {
+        return gulp.src(input)
             .pipe(rename(options))
             .pipe(gulp.dest(output));
     });
 
-    return this.queueTask('rename');
-
 });
+
