@@ -31,6 +31,8 @@ functions and hashes. To learn more, [see the gulp-rename package](https://www.n
 
 ## Bugs and Contributions
 
+**_I am no longer actively using, nor maintaining this project. If there are issues, please make a pull requst if you have a solution._**
+
 If you find a bug, please [post an issue on GitHub](https://github.com/EdRands/laravel-elixir-rename/issues) describing the problem.
 Or better yet, make a pull request with the solution.
 
