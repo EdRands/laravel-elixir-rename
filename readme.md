@@ -1,5 +1,7 @@
 #Rename Ingredient for Laravel Elixir
 
+**_I am no longer actively using, nor maintaining this project. If there are issues, please make a pull requst if you have a solution._**
+
 This is a simple [gulp-rename](https://www.npmjs.org/package/gulp-rename) wrapper ingredient for Laravel Elixir.
 
 ## Installation
