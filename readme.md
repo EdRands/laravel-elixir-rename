@@ -1,4 +1,4 @@
-# # DEPRECATED — Rename Ingredient for Laravel Elixir
+# DEPRECATED — Rename Ingredient for Laravel Elixir
 
 This project is no longer supported. Since this ingredient is being used by others, I won't just outright remove it for now.
 
